@@ -7,7 +7,7 @@ I work developing mods for AmongUs/Minecraft
 
 
 ## Work
- - [*ExtremeRoles*](https://github.com/yukieiji/ExtremeRoles) : The extreme mod, adding 90+ roles and 1300+ options
+ - [**ExtremeRoles**](https://github.com/yukieiji/ExtremeRoles) : The extreme mod, adding 90+ roles and 1300+ options
    - ExtremeSkins : addon to add custom cosmetics to ExtremeRoles
  
 Also helping with OSS and closed projects (that I can't tell you about yet) development.
@@ -21,16 +21,16 @@ Also helping with OSS and closed projects (that I can't tell you about yet) deve
 ## Library/Framework
 [![Professional](https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,fastapi,flask,tailwind,react,svelte,nginx,sqlite,mysql,dotnet,unity,unreal)](https://skillicons.dev)
  - other 
-   - *NumPy/CuPy*
-   - *scikit-learn*
-   - *scikit-image*
-   - *Chainer*
-   - *Keras*
-   - *Monai*
-   - *Pytorch Lightning*
-   - *Ignite*
-   - *ITK*
-   - *ASP.Net*
+   - **NumPy/CuPy**
+   - **scikit-learn**
+   - **scikit-image**
+   - **Chainer**
+   - **Keras**
+   - **Monai**
+   - **Pytorch Lightning**
+   - **Ignite**
+   - **ITK**
+   - **ASP.Net**
    - etc...
 
 ### 📖Learning now
