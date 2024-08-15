@@ -23,13 +23,13 @@ Also helping with OSS and closed projects (that I can't tell you about yet) deve
  - other 
    - **NumPy/CuPy**, **pandas**, **zarr**, **scikit-learn**, **scikit-image**, **Chainer**, **Keras**, **Monai**, **Pytorch Lightning**, **Ignite**, **ITK**, **ASP.Net**, etc...
 
-### 📖Learning now
+### Learning now
 [![Learning](https://skillicons.dev/icons?i=vite,nodejs,npm,graphql,flutter,mongodb)](https://skillicons.dev)
 
 ## Infrastructure
 [![Professional](https://skillicons.dev/icons?i=jenkins,aws,docker,githubactions,terraform)](https://skillicons.dev)
 
-### 📖Learning now
+### Learning now
 [![Learning](https://skillicons.dev/icons?i=kubernetes,azure)](https://skillicons.dev)
 
 <!--
