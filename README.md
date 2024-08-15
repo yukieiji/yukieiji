@@ -32,12 +32,6 @@ Also helping with OSS and closed projects (that I can't tell you about yet) deve
 ### 📖Learning now
 [![Learning](https://skillicons.dev/icons?i=kubernetes,azure)](https://skillicons.dev)
 
-### OS
-[![Learning](https://skillicons.dev/icons?i=windows,ubuntu,redhat,mint)](https://skillicons.dev)
-
-## Editor
-[![Professional](https://skillicons.dev/icons?i=visualstudio,vscode,eclipse,vim,obsidian)](https://skillicons.dev)
-
 <!--
 **yukieiji/yukieiji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
