@@ -21,17 +21,7 @@ Also helping with OSS and closed projects (that I can't tell you about yet) deve
 ## Library/Framework
 [![Professional](https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,fastapi,flask,tailwind,react,svelte,nginx,sqlite,mysql,dotnet,unity,unreal)](https://skillicons.dev)
  - other 
-   - **NumPy/CuPy**
-   - **scikit-learn**
-   - **scikit-image**
-   - **Chainer**
-   - **Keras**
-   - **Monai**
-   - **Pytorch Lightning**
-   - **Ignite**
-   - **ITK**
-   - **ASP.Net**
-   - etc...
+   - **NumPy/CuPy**, **pandas**, **zarr**, **scikit-learn**, **scikit-image**, **Chainer**, **Keras**, **Monai**, **Pytorch Lightning**, **Ignite**, **ITK**, **ASP.Net**, etc...
 
 ### 📖Learning now
 [![Learning](https://skillicons.dev/icons?i=vite,nodejs,npm,graphql,flutter,mongodb)](https://skillicons.dev)
