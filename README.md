@@ -27,10 +27,10 @@ Also helping with OSS and closed projects (that I can't tell you about yet) deve
 [![Learning](https://skillicons.dev/icons?i=vite,nodejs,npm,graphql,flutter,mongodb)](https://skillicons.dev)
 
 ## Infrastructure
-[![Professional](https://skillicons.dev/icons?i=jenkins,aws,docker,githubactions,terraform)](https://skillicons.dev)
+[![Professional](https://skillicons.dev/icons?i=jenkins,aws,docker,githubactions)](https://skillicons.dev)
 
 ### Learning now
-[![Learning](https://skillicons.dev/icons?i=kubernetes,azure)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=kubernetes,azure,terraform)](https://skillicons.dev)
 
 <!--
 **yukieiji/yukieiji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
