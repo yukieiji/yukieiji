@@ -7,8 +7,10 @@ I work developing mods for AmongUs/Minecraft
 
 
 ## Work
- - [**ExtremeRoles**](https://github.com/yukieiji/ExtremeRoles) : The extreme mod, adding 90+ roles and 1300+ options
+ - [**ExtremeRoles**](https://github.com/yukieiji/ExtremeRoles) : The extreme AmongUs mod, adding 90+ roles and 1300+ options
    - ExtremeSkins : addon to add custom cosmetics to ExtremeRoles
+ - [**UnityExplorer**](https://github.com/yukieiji/UnityExplorer) : An in-game UI for exploring, debugging and modifying IL2CPP and Mono Unity games(forked)
+ - [**UniverseLib**](https://github.com/yukieiji/UniverseLib) : A library for making plugins which target IL2CPP and Mono Unity games(forked)
  
 Also helping with OSS and closed projects (that I can't tell you about yet) development.
 
@@ -27,10 +29,10 @@ Also helping with OSS and closed projects (that I can't tell you about yet) deve
 [![Learning](https://skillicons.dev/icons?i=vite,nodejs,npm,graphql,flutter,mongodb)](https://skillicons.dev)
 
 ## Infrastructure
-[![Professional](https://skillicons.dev/icons?i=jenkins,aws,docker,githubactions)](https://skillicons.dev)
+[![Professional](https://skillicons.dev/icons?i=jenkins,aws,docker,githubactions,terraform)](https://skillicons.dev)
 
 ### Learning now
-[![Learning](https://skillicons.dev/icons?i=kubernetes,azure,terraform)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=kubernetes,azure)](https://skillicons.dev)
 
 <!--
 **yukieiji/yukieiji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
