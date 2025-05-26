@@ -9,8 +9,10 @@ I work developing mods for AmongUs/Minecraft
 ## Work
  - [**ExtremeRoles**](https://github.com/yukieiji/ExtremeRoles) : The extreme AmongUs mod, adding 90+ roles and 1300+ options
    - ExtremeSkins : addon to add custom cosmetics to ExtremeRoles
+   - and some tools related to the above
  - [**UnityExplorer**](https://github.com/yukieiji/UnityExplorer) : An in-game UI for exploring, debugging and modifying IL2CPP and Mono Unity games(forked)
  - [**UniverseLib**](https://github.com/yukieiji/UniverseLib) : A library for making plugins which target IL2CPP and Mono Unity games(forked)
+ - [**CompatAPI**](https://github.com/yukieiji/CompatAPI) : Simple Impstor plugin to add compatibility check API
  
 Also helping with OSS and closed projects (that I can't tell you about yet) development.
 
