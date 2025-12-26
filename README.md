@@ -7,7 +7,7 @@ I work developing mods for AmongUs/Minecraft
 
 
 ## Work
- - [**ExtremeRoles**](https://github.com/yukieiji/ExtremeRoles) : The extreme AmongUs mod, adding 90+ roles and 1300+ options
+ - [**ExtremeRoles**](https://github.com/yukieiji/ExtremeRoles) : The extreme AmongUs mod, adding 100+ roles and 1300+ options
    - ExtremeSkins : addon to add custom cosmetics to ExtremeRoles
    - and some tools related to the above
  - [**UnityExplorer**](https://github.com/yukieiji/UnityExplorer) : An in-game UI for exploring, debugging and modifying IL2CPP and Mono Unity games(forked)
@@ -17,18 +17,18 @@ I work developing mods for AmongUs/Minecraft
 Also helping with OSS and closed projects (that I can't tell you about yet) development.
 
 ## Language
-[![Professional](https://skillicons.dev/icons?i=c,cpp,cs,py,lua,ts,js,css,php,html)](https://skillicons.dev)
+[![Professional](https://skillicons.dev/icons?i=c,cpp,cs,py,lua,ts,js,css,php,html,rust)](https://skillicons.dev)
 
 ### Learning now
 [![Learning](https://skillicons.dev/icons?i=java,kotlin,gradle,maven)](https://skillicons.dev)
 
 ## Library/Framework
-[![Professional](https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,fastapi,flask,tailwind,react,svelte,nginx,sqlite,mysql,dotnet,unity,unreal)](https://skillicons.dev)
+[![Professional](https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,fastapi,flask,tailwind,react,svelte,nginx,sqlite,mysql,dotnet,unity,unreal,selenium,nodejs,npm,pnpm,vite,vitest,remix,actix,wasm)](https://skillicons.dev)
  - other 
    - **NumPy/CuPy**, **pandas**, **zarr**, **scikit-learn**, **scikit-image**, **Chainer**, **Keras**, **Monai**, **Pytorch Lightning**, **Ignite**, **ITK**, **ASP.Net**, etc...
 
 ### Learning now
-[![Learning](https://skillicons.dev/icons?i=vite,nodejs,npm,graphql,flutter,mongodb)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=graphql,flutter,mongodb,postgres)](https://skillicons.dev)
 
 ## Infrastructure
 [![Professional](https://skillicons.dev/icons?i=jenkins,aws,docker,githubactions,terraform)](https://skillicons.dev)
